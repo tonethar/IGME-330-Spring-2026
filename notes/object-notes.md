@@ -138,6 +138,7 @@ console.log(a.toString()); // '[object Object]'
 // this will override (or "shadow") the existing .toString()
 a.toString = function(){ console.log(`My job is ${this.job}`); };
 console.log(a.toString()); // My job is Ambulance Driver
+console.log(a); // same as above because .toString() is implicitly called
 ```
 
 <hr>
