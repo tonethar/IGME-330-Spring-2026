@@ -48,8 +48,8 @@ d.job = "Dog Walker";
 d.sayGoodbye = function(){ console.log(`Goodbye - my job is ${this.job}`); };
 
 console.log(d);
-d.sayHello();
-d.sayGoodbye();
+d.sayHello(); // Hello - my name is Danny
+d.sayGoodbye(); // Goodbye - my job is Dog Walker
 ```
 
 - Note that in the console, we can see that both properties and both methods are present on the `d` object, regardless of whether they were there when the object was created, or added later on:
