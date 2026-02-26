@@ -1,4 +1,12 @@
-# Web Audio Walkthrough
+# Web Audio Walkthrough - EXTRA CREDIT Assignment
+
+- Note that there is a Part I ("Build a simple Audio Visualizer") and a Part II ("Treble, Bass & Distortion Nodes") of this assignment
+- There are 3 associated videos for this assignment, linked below
+- These will really help with completing *HW-2 Audio Visualizer - Ultimate version*:
+  - part I uses translate, rotate and scale as well as other techniques to create much better looking visualizations than we saw in PE-7
+  - part II shows how to modify the audio routing graph and add bass, treble and distortion effects
+ 
+---
 
 ## I. Build a simple Audio Visualizer
 
@@ -12,7 +20,7 @@
 
 ![screenshot](_images/webaudio-walkthrough-1.gif)
 
-<hr>
+---
 
 ## II. Treble, Bass & Distortion Nodes
 - Notes and start code are here:
