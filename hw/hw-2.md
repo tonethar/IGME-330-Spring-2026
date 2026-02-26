@@ -81,7 +81,7 @@
 
 ##  VI. Documentation Requirements
 
-- Document the following in a plain-text file names **documentation.txt**
+- Discuss the following in a plain-text file names **documentation.txt**
   - II. Tell us about the 2 Audio Effect nodes you added to the audio routing graph
   - III. Tell us your Sprite's class name, what it looks like/what it does in the visualization
   - IV. Tell us what app data you put in your **av-data.json** file
@@ -90,7 +90,7 @@
     - 0% would be if there was not a meaningful improvement over the AV HW
     - 15% would be substantial improvement over the AV HW - a "wow" experience
     - and everything in between
-
+- AND --> see dropbox for [HW - Demo Video](demo-video.md)
 ---
 
 ## VII. Hints/Tips
