@@ -156,7 +156,7 @@ const drawLines = (ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 - **V. Aesthetic Requirements - 0%-15%**
 - **VI. Documentation Requirements**
   - (-10%) if not done
-- ***Starting point is NOT PE-07 Audio Visulizer - (-100%)***
+- ***Starting point is NOT PE-07 Audio Visualizer - (-100%)***
 
 ---
 
