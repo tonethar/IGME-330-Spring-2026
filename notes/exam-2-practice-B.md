@@ -37,15 +37,15 @@
 
 	/*
 	3 - Without using fillRect(), draw a 30 x 30 pixel square at (100,100), stroke the outside of the square with a
-    5-pixel wide yellow stroke, and fill the square with a solid red color
+    5-pixel wide yellow stroke, and fill the square with a solid green color
 	*/
    
 
    // Here are some new canvas questions
 	 
 	/*
-	4 - Using fillRect(), draw a 30 x 30 pixel square at (100,100).
-	Fill the square with a solid red color, and rotate it 45 degrees to the right on its center axis.
+	4 - Using fillRect(), draw a 30 x 30 pixel square at (200,200).
+	Fill the square with a solid green color, and rotate it 45 degrees to the right on its center axis.
 	
 	
 	5 - Implement the following helper function. Don't forget about our best
