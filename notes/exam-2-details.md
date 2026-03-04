@@ -39,6 +39,6 @@
     - mutability with `const`, `Object.freeze()`, `Object.seal()`
     - `Object.create()` and object prototypes
 - Online:
-  - [Exam #2 - Practice A (Misc)](./exam-2-practice-A.md)
+  - [Exam #2 - Practice A (Objects)](./exam-2-practice-A.md)
   - [Exam #2 - Practice B (Canvas)](./exam-2-practice-B.md)
   - [Exam #2 - Practice C (Node.js & unix)](./exam-2-practice-C.md)
