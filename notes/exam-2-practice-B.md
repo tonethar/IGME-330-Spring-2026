@@ -54,15 +54,13 @@
 	const drawCircle = (ctx,x,y,radius,fillStyle,scaleX,scaleY) => {
 		// YOU WRITE THE REST
 	};
-	
 	*/
 
 	/*
 	6) Other canvas stuff:
 	- Canvas gives us a way to change how different layers of graphics interact with the .globalCompositeOperation property
-    - Be sure you understand how ctx.save() and ctx.restore() work (see the Translate/Rotate/Scale assignment)
-
-
+    - Be sure you understand how ctx.save() and ctx.restore() work with drawing state properties and with the
+      Current Transformation Matrix (see the Translate/Rotate/Scale assignment)
 	*/
   </script>
 
