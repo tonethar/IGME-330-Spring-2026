@@ -39,7 +39,7 @@
 	 // Here are some new canvas questions
 	 
 	/*
-	4) Without using fillRect() or strokeRect(), draw a 30 x 30 pixel square at (100,100).
+	4) Using fillRect() or strokeRect(), draw a 30 x 30 pixel square at (100,100).
 	Fill the square with a solid red color, and rotate it 45 degrees to the right on its
 	center axis.
 	
