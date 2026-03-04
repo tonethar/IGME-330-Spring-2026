@@ -7,6 +7,7 @@
   - creating an object literal
   - creating an ES6 class, and an instance of that class
   - `Object.create()` and the prototype chain
+  - 5 commonly used `Object` methods
 
 ---
 
