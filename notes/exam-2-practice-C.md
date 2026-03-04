@@ -12,5 +12,5 @@
     - the audio destination
     - https://developer.mozilla.org/en-US/docs/Web/API/AudioNode
 - Be sure that you know what all of the above nodes do
-- Be sure that you can draw a simple Audio Routing Graph
+- Be sure that you can draw an Audio Routing Graph with multiple nodes 
 - Be sure that you understand what data the `AnalyserNode` is giving us and how it is structured
