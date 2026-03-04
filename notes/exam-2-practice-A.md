@@ -47,6 +47,8 @@ Define an ageUp() method for this object that will cause the object’s age prop
 
 */
 
+// mydog.ageUp()
+// console.log(mydog);
 
 /*
 	3) Create an ES6 class named Dog. 
