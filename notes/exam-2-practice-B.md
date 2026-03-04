@@ -64,6 +64,12 @@
 	*/
   </script>
 
+---
+
+## Screenshot
+
+![screenshot](_images/practice-B-canvas.png)
+
 
 </body>
 </html>
