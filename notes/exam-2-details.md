@@ -1,11 +1,11 @@
-# Exam #2 Details
+# Exam #2 Details (last updated Thursday 3/5/26)
 
-<hr>
+---
 
 ## I. When is it? / What's on it?
-- Week 11A - Tuesday 11/07/23
-- *Anything* and *everything* we have covered weeks 1-9 of this semester is fair game
-  - but ... the focus will be on the new content covered from weeks 5-9 (Canvas, WebAudio, Objects/Classes and some Unix & Node.js)
+- TBA: Week 10 or 11
+- *Anything* and *everything* we have covered weeks 1-10 of this semester is fair game
+  - but ... the focus will be on the new content covered from weeks 5-10 (Canvas, WebAudio, Objects/Classes and some Unix & Node.js)
 
 <hr>
 
