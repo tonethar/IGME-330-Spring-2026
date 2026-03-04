@@ -1,0 +1,16 @@
+# Exam #2 - Practice C - WebAudio
+- PE-7 (lots of notes here) and "Web Audio Walkthough" will be good to review 
+- https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
+- In our web audio assignments we worked with a lot of distinct audio nodes such as:
+  - `AnalyserNode`
+  - `BiquadFilterNode`
+  - `GainNode`
+  - `OscillatorNode` (seen in the Breakout demo)
+  - `WaveShaperNode`
+  - and other audio nodes contained under the base `AudioNode` interface:
+    - the audio source
+    - the audio destination
+    - https://developer.mozilla.org/en-US/docs/Web/API/AudioNode
+- Be sure that you know what all of the above nodes do
+- Be sure that you can draw a simple Audio Routing Graph
+- Be sure that you understand what data the `AnalyserNode` is giving us and how it is structured
