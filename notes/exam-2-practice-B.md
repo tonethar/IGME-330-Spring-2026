@@ -56,6 +56,14 @@
 	};
 	
 	*/
+
+	/*
+	6) Other canvas stuff:
+	- Canvas gives us a way to change how different layers of graphics interact with the .globalCompositeOperation property
+    - Be sure you understand how ctx.save() and ctx.restore() work (see the Translate/Rotate/Scale assignment)
+
+
+	*/
   </script>
 
 
