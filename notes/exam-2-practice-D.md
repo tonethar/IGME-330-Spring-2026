@@ -1,4 +1,4 @@
-# Exam #2 - Practice C
+# Exam #2 - Practice D - Unix & Node
 
 - The questions below will help you practice for exam #2!
 - Here is a list of the correct commands (plus a few fake ones thrown in)
