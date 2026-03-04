@@ -71,4 +71,6 @@
 
 ## Screenshot
 
+- The helper function was called with `drawCircle(ctx,300,300,25,"purple",2,2);`
+
 ![screenshot](_images/practice-B-canvas.png)
