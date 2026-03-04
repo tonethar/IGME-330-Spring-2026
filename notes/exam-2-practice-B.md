@@ -63,14 +63,12 @@
       Current Transformation Matrix (see the Translate/Rotate/Scale assignment)
 	*/
   </script>
+</body>
+</html>
+```
 
 ---
 
 ## Screenshot
 
 ![screenshot](_images/practice-B-canvas.png)
-
-
-</body>
-</html>
-```
