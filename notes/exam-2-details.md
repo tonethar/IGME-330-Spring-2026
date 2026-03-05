@@ -3,7 +3,7 @@
 ---
 
 ## I. When is it? / What's on it?
-- TBA: Week 10 or 11
+- TBA: Week 10 or 11 (probably 10B)
 - *Anything* and *everything* we have covered weeks 1-10 of this semester is fair game
   - but ... the focus will be on the new content covered from weeks 5-10 (Canvas, WebAudio, Objects/Classes and some Unix & Node.js)
 
