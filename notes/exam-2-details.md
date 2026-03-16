@@ -3,7 +3,7 @@
 ---
 
 ## I. When is it? / What's on it?
-- Week 10B
+- Week 10A
 - *Anything* and *everything* we have covered weeks 1-9 of this semester is fair game
   - but ... the focus will be on the new content covered from weeks 5-9 (Canvas, WebAudio, Objects/Classes and some Unix & Node.js)
 
