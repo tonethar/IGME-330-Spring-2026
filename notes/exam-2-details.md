@@ -1,4 +1,4 @@
-# Exam #2 Details (last updated Thursday 3/5/26)
+# Exam #2 Details (last updated Monday 3/16/26)
 
 ---
 
