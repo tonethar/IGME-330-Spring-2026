@@ -32,14 +32,23 @@
       - [Web Audio II - Treble, Bass & Distortion Nodes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-2.md)
 
 ### III-B. Quizzes 
-- In myCourses:
-  - Week 6B - "Take Home" Practice Quiz PDF
-    - reference v. value types
-    - stack v. heap
-    - mutability with `const`, `Object.freeze()`, `Object.seal()`
-    - `Object.create()` and object prototypes
 - Online:
   - [Exam #2 - Practice A (Objects)](./exam-2-practice-A.md)
   - [Exam #2 - Practice B (Canvas)](./exam-2-practice-B.md)
   - [Exam #2 - Practice C (WebAudio)](./exam-2-practice-C.md)
   - [Exam #2 - Practice D (Node.js & unix)](./exam-2-practice-D.md)
+- Week 6B - "Take Home" Practice Quiz PDF (see myCourses) - Concepts:
+  - *reference* types v. *value* types
+  - adding properties (or misspelling existing properties) to existing objects (both literals and "class made")
+  - calling non-existent methods on objects
+  - what `Object.seal()` does to objects & arrays
+  - what `Object.freeze()` does to objects & arrays
+  - how about if a property (or array element) *points* at a reference type?
+- Resources that will help:
+  - https://github.com/tonethar/IGME-330-Fall-2026/blob/main/notes/object-notes.md
+  - https://github.com/tonethar/IGME-330-Fall-2026/blob/main/notes/es6-class-notes.md
+  - Immutability with `const`: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+  - JS value v. Reference types: https://www.javascripttutorial.net/javascript-primitive-vs-reference-values/
+  - Every value in JS can be *treated* like an object:
+    - Note that we DID NOT say that ~"Every value in JavaScript IS an object"~ <-- this statement is NOT true
+    - https://www.codingninjas.com/codestudio/library/javascript-boxing-and-unboxing
