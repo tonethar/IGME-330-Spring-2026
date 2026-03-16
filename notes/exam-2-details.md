@@ -45,8 +45,8 @@
   - what `Object.freeze()` does to objects & arrays
   - how about if a property (or array element) *points* at a reference type?
 - Resources that will help:
-  - [JS - Object Notes](object-notes.md)
-  - [JS - ES6 Class Notes](es6-class-notes.md)
+  - [ES6 Object Notes](object-notes.md)
+  - [ES6 Class Notes](es6-class-notes.md)
   - Immutability with `const`: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
   - JS value v. Reference types: https://www.javascripttutorial.net/javascript-primitive-vs-reference-values/
   - Every value in JS can be *treated* like an object:
