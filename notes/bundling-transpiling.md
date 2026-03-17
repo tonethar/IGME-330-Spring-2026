@@ -248,6 +248,10 @@ module.exports = {
 - This custom `start` command will run webpack
 - the `-watch` flag tells webpack to "watch" for any changes in the JS files and when we save a change to disk, webpack will automatically re-build the **bundle.js** file for us
 
+---
+
+- One more thing, if your **package.json** file has `"type": "commonjs",` in it, delete that entire line, as it messes up webpack when working with ES6 modules
+
 <hr>
  
 **6) Run npm!**
