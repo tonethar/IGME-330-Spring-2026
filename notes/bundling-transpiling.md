@@ -250,7 +250,7 @@ module.exports = {
 
 ---
 
-- One more thing, if your **package.json** file has `"type": "commonjs",` in it, delete that entire line, as it messes up webpack when working with ES6 modules
+- **Important:** --> One more thing, if your **package.json** file has `"type": "commonjs",` in it, delete that entire line, as it messes up webpack when working with ES6 modules
 
 <hr>
  
