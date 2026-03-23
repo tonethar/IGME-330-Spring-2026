@@ -38,12 +38,12 @@ const todoItems = [
     { id: 3, title: "Write the best web app in the world", status: "todo" },
 ]
 
-function addTodoItem(todo) {
+function addTodoItem(title) {
     const id = getNextId(todoItems)
 
     const newTodo = {
         id,
-        title: todo,
+        title,
         status: "todo",
     }
 
