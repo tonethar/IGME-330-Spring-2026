@@ -58,7 +58,8 @@ function getNextId(items) {
 
 const newTodo = addTodoItem("Buy lots of stuff with all the money we make from the app")
 
-console.log(JSON.stringify(newTodo))
+console.log("newTodo =", JSON.stringify(newTodo))
+console.log("all to-do's = ", JSON.stringify(todoItems))
 ```
 
 <hr>
