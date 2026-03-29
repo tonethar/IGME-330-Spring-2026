@@ -55,7 +55,7 @@
 - **Option #3** - React (max grade for this option is 15%)
   - you probably want to start out by bootstrapping a new project with Vite:
     - [Intro to React#v-bootstrapping-a-react-project](https://github.com/tonethar/IGME-330-Master/blob/master/notes/react-intro.md#v-bootstrapping-a-react-project-the-easy-way)
-  - recommendtions:
+  - recommendations:
     - if you want to try out this option (React), consider doing so on the Web Service Application, NOT the Audio Visualizer
     - start out by first trying to get everything working in a single `App` component, and then decompose/re-factor the working code into other components
 
