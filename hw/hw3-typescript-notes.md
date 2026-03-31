@@ -52,7 +52,7 @@ import * as canvas from './canvas';
 - Quit `webpack` and then `npm run build` again
 - You will likely have just a bunch of typescript errors at this point (which is good!)
 - But, you don't yet have a **dist/bundle.js** file, as webpack won't compile to a bundle if you have TypeScript errors!
-- My version of *PE-07 - Web Audio Visualizer* has 143 TypeScript errors!
+- My version of *PE-07 - Web Audio Visualizer* has 153 TypeScript errors!
 - So ...
 
 ---
