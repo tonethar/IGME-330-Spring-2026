@@ -25,9 +25,9 @@
     - ***error while parsing tsconfig.json***
   - you may have previously noticed an error in **tsconfig.json** - basically, `npm` and `typescript` are complaining because they can't find any Typescript **.ts** files
 - :point_right: Go ahead and change the file extension on all of your **.js** files to **.ts**
-  -  :point_right:also, change the file extensions of all of your imports from **.js** to **.ts**
+  -  :point_right: also, change the file extensions of all of your imports from **.js** to **.ts**
     - example `import * as audio from './audio.js';` becomes `import * as audio from './audio.ts'`
-  - in **webpack.config.js** `entry:` change the file extension of then entry point to **.ts**
+  - :point_right: in **webpack.config.js** `entry:` change the file extension of the entry point to **.ts**
     - NB: whenever you change a "config" file, always be sure to type `ctrl-c` to quit `webpack` and then restart it so that the config changes are loaded
   - quit `webpack` and then `npm run build` again:
     - probably a bunch of errors - mostly legitimate TypeScript issues you need to fix
