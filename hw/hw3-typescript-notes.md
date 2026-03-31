@@ -51,6 +51,21 @@ import * as canvas from './canvas';
 
 - Quit `webpack` and then `npm run build` again
 - You will likely have just a bunch of typescript errors at this point (which is good!)
+- But, you don't yet have a **dist/bundle.js** file, as webpack won't compile to a bundle if you have TypeScript errors!
+- My version of *PE-07 - Web Audio Visualizer* has 143 TypeScript errors!
+- So ...
+
+---
+
+- ***Let's temporarily suppress TypeScript errors - Method #4***
+- https://www.codestudy.net/blog/ignore-all-errors-in-a-typescript-file/#method-4-combining-ts-nocheck-with-gradual-fixes
+- basically, add `// @ts-nocheck` to the very top of your **.ts** files
+- quit `webpack` and then `npm run build` again
+- 😹 NO ERRORS! 😹 and NOW we have **dist/bundle.js**
+- Go ahead and run LiveServer and test the app to verify it works when running with the bundle
+
+---
+
 - And now you can finally get to work on fixing the code instead of fighting the tooling!
   
 ---
