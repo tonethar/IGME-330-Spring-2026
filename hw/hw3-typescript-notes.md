@@ -59,7 +59,7 @@ import * as canvas from './canvas';
 
 - ***Let's temporarily suppress TypeScript errors - Method #4***
   - https://www.codestudy.net/blog/ignore-all-errors-in-a-typescript-file/#method-4-combining-ts-nocheck-with-gradual-fixes
-- basically, add `// @ts-nocheck` to the very top of your **.ts** files
+- basically, add `// @ts-nocheck` to the very top of all your project's **.ts** files
 - quit `webpack` and then `npm run build` again
 - 😹 NO ERRORS! 😹 and NOW we have **dist/bundle.js**
 - Go ahead and run LiveServer and test the app to verify it works when running with the bundle
@@ -79,6 +79,7 @@ import * as canvas from './canvas';
 ## III. Fix TypeScript errors
 
 - You should see a long list of errors in the console, but with the help of `// @ts-nocheck`, it's easier to handle them one file at a time
+- BTW - you can suppress TypeScript errors just ***one line at a time with -->*** `// @ts-ignore`
 - In VS Code any file with errors should be highlighted in red, and show the number of errors 
 
 ---
