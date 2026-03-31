@@ -63,6 +63,12 @@ import * as canvas from './canvas';
 - quit `webpack` and then `npm run build` again
 - 😹 NO ERRORS! 😹 and NOW we have **dist/bundle.js**
 - Go ahead and run LiveServer and test the app to verify it works when running with the bundle
+  - if not, make sure your **webpack.config.js** `entry` is correct
+  - make sure you are loading the JS bundle in HTML file, and not the contents of the **src/** folder
+
+```html
+<script src="./dist/bundle.js"></script>
+```
 
 ---
 
