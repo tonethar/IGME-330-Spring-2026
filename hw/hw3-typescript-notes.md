@@ -58,7 +58,7 @@ import * as canvas from './canvas';
 ---
 
 - ***Let's temporarily suppress TypeScript errors - Method #4***
-- https://www.codestudy.net/blog/ignore-all-errors-in-a-typescript-file/#method-4-combining-ts-nocheck-with-gradual-fixes
+  - https://www.codestudy.net/blog/ignore-all-errors-in-a-typescript-file/#method-4-combining-ts-nocheck-with-gradual-fixes
 - basically, add `// @ts-nocheck` to the very top of your **.ts** files
 - quit `webpack` and then `npm run build` again
 - 😹 NO ERRORS! 😹 and NOW we have **dist/bundle.js**
