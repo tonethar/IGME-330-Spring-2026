@@ -78,13 +78,13 @@ import * as canvas from './canvas';
 
 ## III. Fix TypeScript errors
 
-- You should see a long list of errors in the console, but it's probably easier to handle them one file at a time
+- You should see a long list of errors in the console, but with the help of `// @ts-nocheck`, it's easier to handle them one file at a time
 - In VS Code any file with errors should be highlighted in red, and show the number of errors 
 
 ---
 
 ### III-A. Fixing errors in canvas.ts
-- My **canvas.ts** (from the Audio Visualizer PE) has 6 errors - so I'll start with those
+- My **canvas.ts** (from the Audio Visualizer PE) has 6 errors (once I delete `// @ts-nocheck`) - so I'll start with those
 - Note: TypeScript is also giving a lot of "hints" (not errors) with dashed gray underlines:
   - for example *Variable 'ctx' implicitly has an 'any' type, but a better type may be inferred from usage.ts(7043)*
   - I am going to IGNORE these hints for now and will come back to them only AFTER I have eliminated all of the errors in ALL of the code files, and have also confirmed that the app is bundled up and running as expected in  a web browser
