@@ -12,6 +12,9 @@
 - Download the start files from myCourses
 - Rename the folder to ***lastName*-*firstInitial*-hw4-starter**
 - Look over the HTML/CSS/JS files to be sure that you understand the structure of the app
+- If you want, go ahead and update the Bulma and Font Awesome links in the HTML file to point at the latest versions:
+  - https://cdnjs.com/libraries/bulma
+  - https://cdnjs.com/libraries/font-awesome
 - Add your Mapbox API key to **map.js**
 - Change the name and year in the HTML footer to appropriate values
 - Reload the HTML page - the map should be displaying now
